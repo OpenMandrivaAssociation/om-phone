@@ -13,6 +13,7 @@ BuildRequires:	cmake(Qt5Widgets)
 BuildRequires:	cmake(Qt5DBus)
 BuildRequires:	cmake
 BuildRequires:	ninja
+BuildRequires:	qmake5
 
 %description
 Phone dialer for Plasma Mobile
