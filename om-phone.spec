@@ -7,6 +7,7 @@ Source0:	https://github.com/OpenMandrivaSoftware/om-phone/archive/%{version}/%{n
 Requires:	modemmanager
 BuildRequires:	%{_lib}phonenumber-devel
 BuildRequires:	pkgconfig(protobuf)
+BuildRequires:	pkgconfig(ModemManager)
 BuildRequires:	cmake(Qt5Core)
 BuildRequires:	cmake(Qt5Gui)
 BuildRequires:	cmake(Qt5Widgets)
