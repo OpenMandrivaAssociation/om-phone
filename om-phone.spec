@@ -1,6 +1,6 @@
 Name:		om-phone
 Summary:	Phone dialer for Plasma Mobile
-Version:	0.0.1
+Version:	0.0.2
 Release:	1
 License:	GPLv3
 Source0:	https://github.com/OpenMandrivaSoftware/om-phone/archive/%{version}/%{name}-%{version}.tar.gz
